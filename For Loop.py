@@ -12,4 +12,5 @@ for fruit in fruits:
 
 #Example 2: Looping Through a Range
 for i in range(5):
+    print("Printing......")
     print(i)
