@@ -12,5 +12,9 @@ for fruit in fruits:
 
 #Example 2: Looping Through a Range
 for i in range(5):
+<<<<<<< Updated upstream
     print("Printing......")
+=======
+    print("printing......")
+>>>>>>> Stashed changes
     print(i)
