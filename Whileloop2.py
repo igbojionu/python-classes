@@ -3,7 +3,7 @@ staff = {
    'name': 'Japu',
    'phone': '+2348033428077',
    'password': 'Japu7',
-   'City': 'Port Harcourt'
+   'City ': 'Port Harcourt'
 }
 
 # Initialize variables
