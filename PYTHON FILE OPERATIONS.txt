@@ -1,4 +1,3 @@
-Certainly! Let's create a simple tutorial on Python file operations. File operations in Python are essential for reading from and writing to files. Here's a basic guide:
 
 ### 1. Opening a File:
 
